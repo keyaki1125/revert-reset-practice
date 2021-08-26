@@ -1,3 +1,2 @@
 # revert-reset-practice
-Git動画講座用　revertとreset  
-また間違えて更新
+Git動画講座用　revertとreset
